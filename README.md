@@ -3,5 +3,5 @@
 ##  👩🏻‍🏫 Former Teacher Now Turned Coder 👩🏻‍💻
 
 How to Reach Me:
-![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/esther-yoo5/?style=for-the-badge&logo=Linkedin&logoColor=white)
 
