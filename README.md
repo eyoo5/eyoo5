@@ -4,9 +4,6 @@
 My foundation is in Javascript, but I am an advent learner! You can tell from my repositories that I like to dabble in different frameworks and languages. I am confident in using Node.js and Express with a PostgreSQL database on the backend, and React on the front-end. However, I have tried a little of MongoDB and making desktop application using electron, and pretty soon I will try to do a small project using python!
 
 <br />
-How to Reach Me:
-![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
-<br/>
 
 <div align= "center">
    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='Made with JavaScript'/>
@@ -18,3 +15,5 @@ How to Reach Me:
         <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='Made with SequelizeL'/>
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='Made with PostgresSQL'/>
   </div>
+
+<br />
