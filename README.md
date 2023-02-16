@@ -15,6 +15,6 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
   </div>
 
 
-### How To Reach Me
+## How To Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-yoo5/)
