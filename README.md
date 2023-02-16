@@ -2,7 +2,6 @@
 
 ###  👩🏻‍🏫 Former Teacher Now Turned Coder 👩🏻‍💻
 My foundation is in Javascript, but I am an advent learner! You can tell from my repositories that I like to dabble in different frameworks and languages. I am confident in using Node.js and Express with a PostgreSQL database on the backend, and React on the front-end. However, I have tried a little of MongoDB and making desktop application using electron, and pretty soon I will try to do a small project using python!
-
 <br />
 
 <div align= "center">
@@ -15,7 +14,6 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
         <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='Made with SequelizeL'/>
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='Made with PostgresSQL'/>
   </div>
-
 <br />
 
 ### How To Reach Me
