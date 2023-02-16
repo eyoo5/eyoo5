@@ -14,7 +14,7 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='Made with PostgresSQL'/>
   </div>
 
-<br/>
+<br>
 
 ### How To Reach Me
 
