@@ -19,4 +19,4 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
 <br />
 
 ### How To Reach Me
-<a href= https://www.linkedin.com/in/esther-yoo5/> <img src'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/> </a>
+<link href= https://www.linkedin.com/in/esther-yoo5/> ![LinkedIn]('https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </link>
