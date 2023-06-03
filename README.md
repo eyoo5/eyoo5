@@ -20,6 +20,10 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-yoo5/)
 
 ## Projects
-[portfolio_blog] (https://esther-yoo-blog-portfolio.onrender.com/home)
-[trippn] (https://trippn.onrender.com/home)
-[Chef_Hopper_Bakery] (https://chef-hopper-bakery.onrender.com/products)
+<ul>
+        <li>[portfolio_blog] (https://esther-yoo-blog-portfolio.onrender.com/home) </li>
+          <li>[trippn] (https://trippn.onrender.com/home)</li>
+          <li>[Chef_Hopper_Bakery] (https://chef-hopper-bakery.onrender.com/products)</li>
+</ul>
+
+
