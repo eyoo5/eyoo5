@@ -12,8 +12,8 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
         <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' alt='Made with Express'/>
         <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' alt='Made with SequelizeL'/>
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='Made with PostgresSQL'/>
-        <img src='https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white'/>
-        <img src='https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white'/>
+        <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
+        <img src='https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white'/>
         
   </div>
 
