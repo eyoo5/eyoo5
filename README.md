@@ -14,7 +14,7 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='Made with PostgresSQL'/>
         <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
         <img src='https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white'/>
-        
+        <img src='https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white'/>        
   </div>
 
 
