@@ -24,7 +24,7 @@ My foundation is in Javascript, but I am an advent learner! You can tell from my
 
 ## Projects
 <ul>
-        <li>[portfolio_blog] (https://esther-yoo-blog-portfolio.onrender.com/home) </li>
+<!--         <li>[portfolio_blog] (https://esther-yoo-blog-portfolio.onrender.com/home) </li> -->
           <li>[trippn] (https://trippn.onrender.com/home)</li>
           <li>[Chef_Hopper_Bakery] (https://chef-hopper-bakery.onrender.com/products)</li>
 </ul>
