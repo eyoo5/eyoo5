@@ -32,6 +32,7 @@ Former New York City public school teacher of 6 years, who is currently trained 
 ## Projects
 <ul>
 <!--         <li>[portfolio_blog] (https://esther-yoo-blog-portfolio.onrender.com/home) </li> -->
+        <li> [SRE Training Repository] (https://github.com/eyoo5/pss-orderbook-deploy)</li>>
           <li>[trippn] (https://trippn.onrender.com/home)</li>
           <li>[Chef_Hopper_Bakery] (https://chef-hopper-bakery.onrender.com/products)</li>
 </ul>
