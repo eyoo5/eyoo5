@@ -1,7 +1,7 @@
 ## Hi, I am Esther Yoo 👋
 
 ###  👩🏻‍🏫 Former Teacher Now Turned Coder 👩🏻‍💻
-My foundation is in Javascript, but I am an advent learner! You can tell from my repositories that I like to dabble in different frameworks and languages. I am confident in using Node.js and Express with a PostgreSQL database on the backend, and React on the front-end. However, I have tried using the database MongoDB with Mongoose, making desktop application using electron, and beginner games using python! Look out for more projects to come!
+Former New York City public school teacher of 6 years, who is currently trained as a fullstack web devolper and site reliability engineer. Excellent time management, communication, and leadership skills. Talented in breaking up big ideas into digestible pieces for all backgrounds and experiences. Proactive and loves problem solving!
 
 <div align= "center">
         <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='Made with JavaScript'/>
